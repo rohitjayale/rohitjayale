@@ -38,10 +38,10 @@ Please feel free to clone projects and raise issues if you think something could
   <img align="left" alt="Rohit's LinkdeIN" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/Linkedin.svg" />
 </a>
 
-<a href="https://www.kaggle.com/rohitjayale">
-  <img align="left" alt="Rohit's | Kaggle" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/kaggle-icon.svg"/>
+<!--<a href="https://www.kaggle.com/rohitjayale">
+  <img align="left" alt="Rohit's | Kaggle" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/kaggle-icon.svg"/> -->
 
-<!--<a href="https://dev.to/abhijeetpujara">
+ <!--<a href="https://dev.to/abhijeetpujara">
   <img align="left" alt="Rohit's | dev" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/dev-dot-to.svg"/> -->
 
 <a href="https://twitter.com/rohit_jayale">
