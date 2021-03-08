@@ -42,7 +42,7 @@ Please feel free to clone projects and raise issues if you think something could
   <img align="left" alt="Rohit's | Kaggle" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/kaggle-icon.svg"/>
 
 <!--<a href="https://dev.to/abhijeetpujara">
-  <img align="left" alt="Rohit's | dev" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/dev-dot-to.svg"/>
+  <img align="left" alt="Rohit's | dev" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/dev-dot-to.svg"/> -->
 
 <a href="https://twitter.com/rohit_jayale">
   <img align="left" alt="Rohit | Twitter" width="22px" src="https://github.com/abhijeetpujara/Images/blob/master/Twitter.svg" />
